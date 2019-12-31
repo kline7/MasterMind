@@ -1,0 +1,11 @@
+C:\Users\spenc\Code\GitHub\MasterMind\MasterMind\MasterMind\bin\Debug\netcoreapp2.1\MasterMind.deps.json
+C:\Users\spenc\Code\GitHub\MasterMind\MasterMind\MasterMind\bin\Debug\netcoreapp2.1\MasterMind.runtimeconfig.json
+C:\Users\spenc\Code\GitHub\MasterMind\MasterMind\MasterMind\bin\Debug\netcoreapp2.1\MasterMind.runtimeconfig.dev.json
+C:\Users\spenc\Code\GitHub\MasterMind\MasterMind\MasterMind\bin\Debug\netcoreapp2.1\MasterMind.dll
+C:\Users\spenc\Code\GitHub\MasterMind\MasterMind\MasterMind\bin\Debug\netcoreapp2.1\MasterMind.pdb
+C:\Users\spenc\Code\GitHub\MasterMind\MasterMind\MasterMind\obj\Debug\netcoreapp2.1\MasterMind.csprojAssemblyReference.cache
+C:\Users\spenc\Code\GitHub\MasterMind\MasterMind\MasterMind\obj\Debug\netcoreapp2.1\MasterMind.csproj.CoreCompileInputs.cache
+C:\Users\spenc\Code\GitHub\MasterMind\MasterMind\MasterMind\obj\Debug\netcoreapp2.1\MasterMind.AssemblyInfoInputs.cache
+C:\Users\spenc\Code\GitHub\MasterMind\MasterMind\MasterMind\obj\Debug\netcoreapp2.1\MasterMind.AssemblyInfo.cs
+C:\Users\spenc\Code\GitHub\MasterMind\MasterMind\MasterMind\obj\Debug\netcoreapp2.1\MasterMind.dll
+C:\Users\spenc\Code\GitHub\MasterMind\MasterMind\MasterMind\obj\Debug\netcoreapp2.1\MasterMind.pdb
