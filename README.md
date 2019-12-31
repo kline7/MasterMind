@@ -8,10 +8,10 @@ If a digit(#) in the users guess is correct in the correct position "[ # ] : +" 
 If a digit(#) in the users guess is correct in the wrong position "[ # ] : -" will be printed for that digit.
 
 Test Cases for Input:
-Null/ Empty input                             - Invalid
-2 Number input(20)                            - Invalid
-3 Number input(301)                           - Invalid
-4 Number input(4555)                          - Valid
-4 Number input number out of range(1-6)(7123) - Invalid
-Random letters (a, aa, ajkk, aaihq)           - Invalid
-5 number input(12345)                         - Invalid
+Null/ Empty input                             - Invalid,
+2 Number input(20)                            - Invalid,
+3 Number input(301)                           - Invalid,
+4 Number input(4555)                          - Valid,
+4 Number input number out of range(1-6)(7123) - Invalid,
+Random letters (a, aa, ajkk, aaihq)           - Invalid,
+5 number input(12345)                         - Invalid,
